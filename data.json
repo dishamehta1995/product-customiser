@@ -1,0 +1,78 @@
+{
+  "Product": [
+    {
+      "title": "16-inch MacBook Pro - Space Grey",
+      "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+      "components": [
+        {
+          "title": "Processor",
+          "varient": [
+            {
+              "title": "2.3GHz 8-core 9th-generation Intel Core i9 processor, Turbo Boost up to 4.8GHz",
+              "cost": "0"
+            },
+            {
+              "title": "2.4GHz 8-core 9th-generation Intel Core i9 processor, Turbo Boost up to 5.0GHz",
+              "cost": "20,000"
+            }
+          ]
+        },
+        {
+          "title": "Memory",
+          "varient": [
+            {
+              "title": "16GB 2666MHz DDR4 memory",
+              "cost": "0"
+            },
+            {
+              "title": "32GB 2666MHz DDR4 memory",
+              "cost": "40,000"
+            },
+            {
+              "title": "64GB 2666MHz DDR4 memory",
+              "cost": "80,000"
+            }
+          ]
+        },
+        {
+          "title": "Graphics",
+          "varient": [
+            {
+              "title": "AMD Radeon Pro 5500M with 4GB of GDDR6 memory",
+              "cost": "0"
+            },
+            {
+              "title": "AMD Radeon Pro 5500M with 8GB of GDDR6 memory",
+              "cost": "10,000"
+            },
+            {
+              "title": "AMD Radeon Pro 5600M with 8GB of HBM2 memory",
+              "cost": "70,000"
+            }
+          ]
+        },
+        {
+          "title": "Storage",
+          "varient": [
+            {
+              "title": "1TB SSD storage",
+              "cost": "0"
+            },
+            {
+              "title": "2TB SSD storage",
+              "cost": "40,000"
+            },
+            {
+              "title": "4TB SSD storage",
+              "cost": "100,000"
+            },
+            {
+              "title": "8TB SSD storage",
+              "cost": "220,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
