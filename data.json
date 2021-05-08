@@ -2,7 +2,7 @@
   "Product": [
     {
       "title": "16-inch MacBook Pro - Space Grey",
-      "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+      "image": "https://raw.githubusercontent.com/dishamehta1995/product-customiser/main/mac-book.jpg",
       "components": [
         {
           "title": "Processor",
