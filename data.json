@@ -1,7 +1,7 @@
     {
       "title": "16-inch MacBook Pro - Space Grey",
       "image": "https://raw.githubusercontent.com/dishamehta1995/product-customiser/main/mac-book.jpg",
-      "components": 
+      "components": [{
         "Processor":{
           "title": "Processor",
           "varient": [
@@ -82,4 +82,5 @@
             }
            ]
         }
+      }]
     }
