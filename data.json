@@ -2,7 +2,7 @@
       "title": "16-inch MacBook Pro - Space Grey",
       "image": "https://raw.githubusercontent.com/dishamehta1995/product-customiser/main/mac-book.jpg",
       "components": [
-        "Processor": [{
+        "Processor":{
           "title": "Processor",
           "varient": [
             {
@@ -16,8 +16,8 @@
               "selected":false
             }
           ]
-        }],
-        "Memory": [{
+        },
+        "Memory":{
           "title": "Memory",
           "varient": [
             {
@@ -36,8 +36,8 @@
               "selected":false
             }
           ]
-        }],
-        "Graphics":[{
+        },
+        "Graphics":{
           "title": "Graphics",
           "varient": [
             {
@@ -56,8 +56,8 @@
               "selected":false
             }
           ]
-        }],
-        "Storage":[{
+        },
+        "Storage":{
           "title": "Storage",
           "varient": [
             {
@@ -81,6 +81,6 @@
               "selected":false
             }
           ]
-        }]
+        }
       ]
     }
