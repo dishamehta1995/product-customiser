@@ -7,13 +7,11 @@
           "varient": [
             {
               "title": "2.3GHz 8-core 9th-generation Intel Core i9 processor, Turbo Boost up to 4.8GHz",
-              "cost": 0,
-              "selected":true
+              "cost": 0
             },
             {
               "title": "2.4GHz 8-core 9th-generation Intel Core i9 processor, Turbo Boost up to 5.0GHz",
-              "cost": 20000,
-              "selected":false
+              "cost": 20000
             }
           ]
         },
@@ -22,18 +20,15 @@
           "varient": [
             {
               "title": "16GB 2666MHz DDR4 memory",
-              "cost": 0,
-              "selected":true
+              "cost": 0
             },
             {
               "title": "32GB 2666MHz DDR4 memory",
-              "cost": 40000,
-              "selected":false
+              "cost": 40000
             },
             {
               "title": "64GB 2666MHz DDR4 memory",
-              "cost": 80000,
-              "selected":false
+              "cost": 80000
             }
           ]
         },
@@ -42,18 +37,15 @@
           "varient": [
             {
               "title": "AMD Radeon Pro 5500M with 4GB of GDDR6 memory",
-              "cost": 0,
-              "selected":true
+              "cost": 0
             },
             {
               "title": "AMD Radeon Pro 5500M with 8GB of GDDR6 memory",
-              "cost": 10000,
-              "selected":false
+              "cost": 10000
             },
             {
               "title": "AMD Radeon Pro 5600M with 8GB of HBM2 memory",
-              "cost": 70000,
-              "selected":false
+              "cost": 70000
             }
           ]
         },
@@ -62,25 +54,31 @@
           "varient": [
             {
               "title": "1TB SSD storage",
-              "cost": 0,
-              "selected":true
+              "cost": 0
             },
             {
               "title": "2TB SSD storage",
-              "cost": 40000,
-              "selected":false
+              "cost": 40000
             },
             {
               "title": "4TB SSD storage",
-              "cost": 100000,
-              "selected":false
+              "cost": 100000
             },
             {
               "title": "8TB SSD storage",
-              "cost": 220000,
-              "selected":false
+              "cost": 220000
             }
           ]
+        }
+      ],
+      "selectedVarient":[
+        {
+            "Processor":"2.4GHz 8-core 9th-generation Intel Core i9 processor, Turbo Boost up to 5.0GHz",
+            "Memory":"64GB 2666MHz DDR4 memory",
+            "Graphics":"AMD Radeon Pro 5600M with 8GB of HBM2 memory",
+            "Storage":"8TB SSD storage",
+            "Display":"16-inch Retina display with True Tone,
+            "Keyboard":"Touch Bar and Touch ID Backlit Magic Keyboard - US English Logic Pro X"
         }
       ]
     }
